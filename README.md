@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [DocNet](https://github.com/AJAYK-1/DocNet)
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **Redux**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with **Tailwind**
+- 🤝 I’m looking for help with **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AJAYK-1](https://github.com/AJAYK-1)
 
-- 💬 Ask me about **MERN Stack, gsap and Javascript**
+- 💬 Ask me about **MERN Stack, Redux and Javascript**
 
 - 📫 How to reach me **ajaykumar10@gmail.com**
 

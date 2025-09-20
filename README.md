@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="ajayk-1" /></a> </p>
 
-- 🔭 I’m currently working on [DocNet](https://github.com/AJAYK-1/DocNet)
+- 🔭 I’m currently working on [Re-Zume](https://github.com/AJAYK-1/Re-Zume)
 
 - 🌱 I’m currently learning **Redux**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AJAYK-1](https://github.com/AJAYK-1)
 

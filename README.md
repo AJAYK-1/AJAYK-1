@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
+<h1 align="center">Hi 👋, I'm Ajay </h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayk-1&label=Profile%20views&color=0e75b6&style=flat" alt="ajayk-1" /> </p>
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Re-Zume](https://github.com/AJAYK-1/Re-Zume)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with **Redux**
+- 🤝 I’m looking for help with **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AJAYK-1](https://github.com/AJAYK-1)
 
